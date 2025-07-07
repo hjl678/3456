@@ -24,4 +24,4 @@
 论坛/资源站合集页：一些站点聚合资源站入口，适合长期收藏。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/hjl678/3456 ）</span>
